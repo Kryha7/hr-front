@@ -1,0 +1,89 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.col-md-12 h1
+{
+    font-weight: 700;
+}
+
+.bg-hype
+{
+    background: #212121;
+    font-weight: 500;
+}
+
+.btn-outline-facebook
+{
+    background: transparent;
+    border-color: #3b5998;
+    color: #3b5998;
+}
+
+.btn-outline-facebook:hover
+{
+    color: #ffffff;
+    border-color: #3b5998;
+    background: #3b5998;
+}
+
+.navbar-expand-md .navbar-nav .nav-link
+{
+    padding-right: 0;
+}
+
+.card-title
+{
+    margin: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.card-text
+{
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #99a5b1;
+    margin: 0;
+}
+
+.card-tickets
+{
+    margin: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.card-tickets .tickets
+{
+    color: #99a5b1;
+}
+
+.card-footer
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    background: transparent;
+    border: none;
+}
+
+.card
+{
+    border: none;
+}
+
+.btn-take-in
+{
+    /*text-transform: uppercase;*/
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    width: 100%;
+    font-size: 1.2rem;
+}
+
+.card-body
+{
+    padding-bottom: 5px;
+}
